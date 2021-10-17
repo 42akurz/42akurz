@@ -1,4 +1,3 @@
-<h1 align="left">Hi 👋🏻, I'm Alex</h1>
 <h2 align="left">Student at 42 Heilbronn 🇩🇪</h2>
 
 
