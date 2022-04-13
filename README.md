@@ -1,4 +1,11 @@
-<h2 align="center">Student at 42 Heilbronn 🇩🇪</h2>
+<h2 align="center">Hey, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+
+* I am currently studying sotfware engineering at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> in Germany  🇩🇪
+
+* Part of a <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>.
+
+* The 42's curriculum challenges the traditional learning model and provides an industry-leading education.
+  <br></br>
 
 <h2 align="center">Languages</h2>
 <p align="center">
@@ -14,7 +21,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="python"/>
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=" alt="swift"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=" alt="swift"/>
 </p>
 
 <p align="center">
@@ -23,7 +30,7 @@
  
 <h2 align="center">Contact</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/alexander-kurz-587b19217" target="_blank">
+<a href="https://www.linkedin.com/in/alexander-kurz-587b19217" target="blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
