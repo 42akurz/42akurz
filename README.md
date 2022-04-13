@@ -2,7 +2,7 @@
 
 * I am currently studying sotfware engineering at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> in Germany  🇩🇪
 
-* Part of a <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>.
+* Part of a <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>
 
 * The 42's curriculum challenges the traditional learning model and provides an industry-leading education.
   <br></br>
